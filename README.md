@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there , I'm Rohan.    👋
+
+I am a new-graduate (2022) from UC Irvine where I studied Computer Information Systems & Business Administration.
 
 <!--
 **rohansankhla/rohansankhla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
