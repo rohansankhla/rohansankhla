@@ -1,6 +1,9 @@
 ### Hi there , I'm Rohan.    👋
 
-I am a new-graduate (2022) from UC Irvine where I studied Computer Information Systems & Business Administration.
+<img align="right" alt="GIF" src="https://https://github.com/rohansankhla/rohansankhla/blob/main/laptop-office.gif" width="500" height="320" />
+
+     
+I graduated in 2022 with a Bachelors of Science UC Irvine where I studied Computer Information Systems & Business Administration.
 
 <!--
 **rohansankhla/rohansankhla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
