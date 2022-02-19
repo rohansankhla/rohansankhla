@@ -9,9 +9,9 @@
 
 - ✍ You can find my some of the projects I've worked on here
 - 🔭 I’m currently interested in learning more about Cloud systems
-- ⚡ On the search for an entry-level position 😄
+- ⚡ On the search for an entry-level position
 - 💬 Feel free to reach out to me about anything!
-- Connect with me on Linkedin      ------->     [<img align="center" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- 😄 Connect with me on Linkedin      ------->     [<img align="center" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 ## Languages and Tools:
