@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" src="https://github.com/rohansankhla/rohansankhla/blob/main/laptop-office.gif" width="498" height="373" />
 
 
-#### I graduated from UC Irvine in Spring of 2022 where I studied Computer Information Systems & Business Administration
+#### 2022 UC Irvine Graduate: Computer Information Systems & Business Administration
 
 
 - ✍ You can find my some of the projects I've worked on here
