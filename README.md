@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" src="https://github.com/rohansankhla/rohansankhla/blob/main/laptop-office.gif" width="498" height="373" />
 
 
-#### 2022 UC Irvine Graduate: Computer Information Systems & Business Administration
+#### Backend Software Engineer (UC Irvine Graduate)
 
 
 - ✍ You can find my some of the projects I've worked on here
